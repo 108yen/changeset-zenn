@@ -1,5 +1,11 @@
 # changeset-zenn
 
+## 0.2.2
+
+### Patch Changes
+
+- [`abe8a05`](https://github.com/108yen/changeset-zenn/commit/abe8a05575bfc59fe62bbaa1aa939ffccccd5faa) Thanks [@108yen](https://github.com/108yen)! - Test changelog 7.
+
 ## 0.2.1
 
 ### Patch Changes
